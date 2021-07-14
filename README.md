@@ -1,1 +1,65 @@
-# rosaesuna
+<html>
+    <head><style>/* Style The Dropdown Button */
+        .dropbtn {
+          background-color: #9a68f9;
+          color: white;
+          padding: 16px;
+          font-size: 16px;
+          border: none;
+          cursor: pointer;
+        }
+        
+        /* The container <div> - needed to position the dropdown content */
+        .dropdown {
+          position: relative;
+          display: inline-block;
+        }
+        
+        /* Dropdown Content (Hidden by Default) */
+        .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #fdfbff;
+          min-width: 160px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;
+        }
+        
+        /* Links inside the dropdown */
+        .dropdown-content a {
+          color: black;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;
+        }
+        
+        /* Change color of dropdown links on hover */
+        .dropdown-content a:hover {background-color: #f1f1f1}
+        
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+          display: block;
+        }
+        
+        /* Change the background color of the dropdown button when the dropdown content is shown */
+        .dropdown:hover .dropbtn {
+          background-color: #9a68f9;
+        }
+        </style>
+        
+        <div class="dropdown">
+          <button class="dropbtn">⤹</button>
+          <div class="dropdown-content">
+            <a href="#">𝓕𝓸𝓻𝓮𝓹𝓵𝓪𝔂</a>
+            <a href="#">𝖙𝖍𝖊 𝖒𝖆𝖙𝖙𝖊𝖗 𝖒𝖆𝖙𝖙𝖊𝖗𝖘</a>
+          </div>
+        </div></style></head>
+<body>
+<h1>𝒽𝒾, 𝓂𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝒩𝒶𝓉𝒶𝓁𝒾𝒶, مرحباً ، اسمي ناتاليا, Hola me llamo natalia, ᵀᴱᴿᴱ, ᴹᴵᴺᵁ ᴺᴵᴹᴵ ᴼᴺ ᴺᴬᵀᴬᴸᴵᴬ, سلام ، اسم من ناتالیا است, 𝕮𝖎𝖆𝖔, 𝖒𝖎 𝖈𝖍𝖎𝖆𝖒𝖔 𝕹𝖆𝖙𝖆𝖑𝖎𝖆, הי, שמי נטליה, გამარჯობა, მე მქვია ნატალია, 안녕하세요, 저는 Natalia입니다, Olá, meu nome é Natalia, вυηă, мă ηυмεsc ηαтαℓια,Здраво, ја се зовем Наталиа, ๓єгђค๒ค, ๒єภเ๓ ค๔ı๓ ภคtคlเค., 嗨，我叫纳塔利娅</h1>
+<h2>☏ +49 𝟙𝟝𝟚𝟘𝟠𝟛𝟟𝟟𝟚𝟡𝟘</h2>
+<h3> 𝘵𝘩𝘦𝘮𝘢𝘵𝘵𝘦𝘳𝘮𝘢𝘵𝘵𝘦𝘳𝘴(at)𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮</h3>
+<img src="file:///C:\Users\Rosa\Desktop\WEBSITE\flat.jpg">
+<img src= https://pbs.twimg.com/media/D6w0tXyXsAU_sp7?format=png&name=small />
+<img src="file:///C:\Users\Rosa\Desktop\WEBSITE\poem.jpg">
+</body>
+</html>
